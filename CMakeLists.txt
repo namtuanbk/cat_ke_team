@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 2.8.10)
 
-project (EYE_DETECT)
+project (Get_Web_info)
 
 if(NOT CMAKE_BUILD_TYPE AND NOT CMAKE_CONFIGURATION_TYPES)
 	message(STATUS "Setting build type to 'Debug' as none was specified.")
